@@ -1,0 +1,310 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(2px);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    border-bottom: none;
+}
+
+.navbar .navbar-brand {
+    color: #ff0000;
+    font-size: 1.5rem;
+    margin-right: 0;
+}
+
+.navbar .navbar-brand img {
+    height: 50px;
+    width: auto;
+}
+
+.navbar .navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar .nav-link {
+    color: #000000 !important;
+    transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+    color: #ba8443 !important;
+}
+
+.dropdown-menu {
+    background-color: rgba(0, 0, 0, 0.8);
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    opacity: 0;
+    transform: translateY(-10px);
+}
+
+.dropdown-menu.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.dropdown-item {
+    color: #000000;
+    padding: 8px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-item:hover {
+    background-color: #ba8443;
+}
+
+/* Ajustes para o Carrossel */
+#carousel-background {
+    margin-top: 0; /* Remove a margem superior */
+    height: 500px; /* Define a altura do carrossel */
+    overflow: hidden;
+}
+
+#carousel-background .carousel-item {
+    height: 500px; /* Define a altura dos itens do carrossel */
+}
+
+#carousel-background .carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+
+.text-center {
+    margin-top: 10px;
+}
+
+#produtos {
+    margin-top: 20px;
+}
+
+#produtos .card {
+    transition: transform 0.2s;
+    text-align: center;
+}
+
+#produtos .card-body .btn {
+    display: block;
+    margin: 0 auto;
+}
+
+#produtos .card:hover {
+    transform: scale(1.05);
+}
+
+/* Estilos para o Carrinho de Compras */
+
+#popup-carrinho.show .modal-content {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#popup-carrinho .modal-header {
+    background-color: rgba(0, 0, 0, 0); /* Cabeçalho com fundo escuro */
+    color: #252424;
+    border-bottom: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+   
+}
+
+#popup-carrinho .modal-body {
+    max-height: 400px;
+    overflow-y: auto;
+    color: #c40707;
+}
+
+#popup-carrinho .item-carrinho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #dee2e6;
+    color: #000000;
+}
+
+#popup-carrinho .item-carrinho div {
+    flex-grow: 1;
+}
+
+#popup-carrinho .item-carrinho button {
+    background-color: #ba8443;
+    color: #ffffff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#popup-carrinho .item-carrinho button:hover {
+    background-color: #ba8443;
+}
+
+#popup-carrinho .modal-footer {
+    border-top: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.0); /* Rodapé com fundo escuro */
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#popup-carrinho .modal-footer .btn {
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+#observacoes {
+    background-color: #fff;
+    color: #000;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+button.close {
+    color: #fff;
+}
+
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 40px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer h5 {
+    margin-bottom: 10px;
+}
+
+footer a {
+    color: #fff;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #c306fd;
+}
+
+/* Estilos para as bolinhas de tamanho em duas linhas */
+.tamanhos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.tamanhos .tamanho {
+    background-color: #ba8443;
+    color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.tamanhos .tamanho.selected {
+    background-color: #03ff039f;
+    border: 2px solid #fff;
+}
+
+.tamanhos .tamanho.disabled {
+    background-color: #4e4e4ee1;
+    cursor: not-allowed;
+}
+
+.tamanhos .tamanho:hover:not(.disabled) {
+    background-color: #616160;
+}
+#logo {
+    width: 150px; /* Ajuste a largura conforme necessário */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+@media (max-width: 768px) {
+    #logo {
+        width: 100px; /* Ajuste a largura para dispositivos menores */
+    }
+}
+/* =========================================*/
+
+/* Estilo personalizado para todos os botões */
+.btn {
+    border-radius: 50px; /* Bordas arredondadas */
+    padding: 10px 20px; /* Espaçamento interno */
+    font-weight: bold; /* Texto em negrito */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Cores personalizadas para botões primários */
+.btn-primary {
+    background-color: #ba8443; /* Cor de fundo personalizada */
+    color: #fff; /* Cor do texto */
+    border: none; /* Remove a borda */
+}
+
+.btn-primary:hover {
+    background-color: #1eb838; /* Cor de fundo ao passar o mouse */
+    color: #fff; /* Cor do texto ao passar o mouse */
+}
+
+/* Cores personalizadas para botões secundários */
+.btn-secondary {
+    background-color: #5f5f5f; /* Cor de fundo personalizada */
+    color: #fff; /* Cor do texto */
+    border: none; /* Remove a borda */
+}
+
+.btn-secondary:hover {
+    background-color: #f80000; /* Cor de fundo ao passar o mouse */
+    color: #fff; /* Cor do texto ao passar o mouse */
+}
+
+/* Cores personalizadas para botões de perigo (danger) */
+.btn-danger {
+    background-color: #dc3545; /* Cor de fundo personalizada */
+    color: #fff; /* Cor do texto */
+    border: none; /* Remove a borda */
+}
+
+.btn-danger:hover {
+    background-color: #c82333; /* Cor de fundo ao passar o mouse */
+    color: #fff; /* Cor do texto ao passar o mouse */
+}
+
+/* Botão de link (link) */
+.btn-link {
+    background-color: transparent;
+    color: #007bff; /* Cor do texto */
+    text-decoration: none;
+}
+
+.btn-link:hover {
+    color: #0056b3; /* Cor do texto ao passar o mouse */
+    text-decoration: underline; /* Sublinhado ao passar o mouse */
+}
+/*==========================================================================*\

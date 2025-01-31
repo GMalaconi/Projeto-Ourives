@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNADIVA</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-transparent">
+            <a class="navbar-brand" href="./index.html"><img src="https://lh3.googleusercontent.com/pw/AP1GczNGjyNcAm6aIPrKU7qLGBqyenlciYaxW2cXNz-wEPTbBDp1iqaych6iktFxw4LyOjsFJk3WEpPgr1WCALyOLuOx6PzxPpSkYW-gc0DPuS59wjowyZ1JUrIH-1WVn4nXFOftPr2OaEZ-UFThcjOEa2XpyA=w521-h242-s-no-gm?authuser=0"id="logo" alt="Logo da Loja"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="aneisMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Anéis
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="aneisMenu">
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('aneis', 'Anos')">Anos</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('aneis', 'Esmaltados')">Esmaltados</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('aneis', 'Letra')">Letra</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('aneis', 'Pedras')">Pedras</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('aneis', 'Personalizados')">Personalizados</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="brincosMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Brincos
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="brincosMenu">
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Argolas')">Argolas</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Prata')">Prata</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Ear_Cuff')">Ear Cuff</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Ear_Hook')">Ear Hook</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Ear_Jacket')">Ear Jacket</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Ear_Line')">Ear Line</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Esmaltados')">Esmaltados</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Festa')">Festa</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Letras')">Letras</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Lisos')">Lisos</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Pedras')">Pedras</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Pérolas')">Pérolas</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Piercing')">Piercing</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Trio')">Trio</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('brincos', 'Religioso')">Religioso</a>
+
+
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="colaresMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Colares
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="colaresMenu">
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('colares', 'Ouro')">Ouro</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('colares', 'Prata')">Prata</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('colares', 'Diamante')">Diamante</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="sapatosMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Sapatos
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="sapatosMenu">
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('sapatos', 'Casual')">Casual</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('sapatos', 'Esportivo')">Esportivo</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('sapatos', 'Social')">Social</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="grinaldaMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Grinalda
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="grinaldaMenu">
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('grinalda', 'Flores')">Flores</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('grinalda', 'Pérolas')">Pérolas</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('grinalda', 'Joias')">Joias</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="conjuntosMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Conjuntos
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="conjuntosMenu">
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('conjuntos', 'Anéis')">Anéis</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('conjuntos', 'Colares')">Colares</a>
+                            <a class="dropdown-item" href="#" onclick="filtrarSubcategoria('conjuntos', 'Brincos')">Brincos</a>
+                        </div>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="./TrocaeDevolução.html">Troca e Devolução</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./Editorial/index.html">Editoriais</a></li>
+                        <a class="nav-link" href="#" onclick="mostrarCarrinho()">Carrinho (<span id="contador-carrinho">0</span>)</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+<!-- Popup Modal 
+<div id="promoPopup" class="modal">
+    <div class="modal-content">
+        <span class="close-btn">&times;</span>
+        <img src="https://gazinsemijoias.com.br/public/images/banners/6bf8c65becb117a4fe00d22fde575b18.webp" class="d-block w-50" alt="Imagem 1">
+       <a href="colecao.html" class="btn btn-primary">Ver Coleção</a>
+    </div>
+</div>-->
+
+
+
+    <div id="carousel-background" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="" class="d-block w-100" alt="Imagem 1">
+            </div>
+            <div class="carousel-item">
+                <img src="" class="d-block w-100" alt="Imagem 2">
+            </div>
+            <div class="carousel-item">
+                <img src="" class="d-block w-100" alt="Imagem 3">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carousel-background" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carousel-background" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <div class="text-center my-4">
+        <p><strong>Banho vitalício em todas as peças!</strong></p>
+    </div>
+
+    <main class="container mt-5">
+        <section id="produtos" class="row mt-5">
+            <!-- Produtos serão inseridos aqui -->
+        </section>
+    </main>
+
+    <div id="popup-carrinho" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Carrinho de Compras</h5>
+                    <button type="button" class="close" onclick="fecharCarrinho()" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div id="lista-carrinho"></div>
+                    <textarea id="observacoes" class="form-control" placeholder="Observações..."></textarea>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" onclick="limparCarrinho()">Limpar Carrinho</button>
+                    <button type="button" class="btn btn-primary" onclick="gerarOrcamentoWhatsapp()">Finalizar Compra</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+       
+    <div id="popup-zoom" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" onclick="fecharZoom()" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img id="zoom-img" class="img-fluid" src="" alt="Imagem em Zoom">
+                </div>
+            </div>
+        </div>
+    </div>
+        <footer class="bg-dark text-white text-center py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h5>Nossa Localização</h5>
+                    <div id="mapa">
+                        Imagem do mapa 
+                        <iframe src="https://www.google.com/maps/embed?pb=!3m2!1spt-BR!2sbr!4v1733508356836!5m2!1spt-BR!2sbr!6m8!1m7!1sIXbdo5e__7ZkiOJgk4UbCA!2m2!1d-12.99020225505447!2d-38.45600367427429!3f17.95662382168252!4f2.5222869723327364!5f0.7820865974627469" width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    <p>Endereço: RUA RAMALHO ORTIGAO, 30 COND EDF.EMPRESARIAL VI,SL 404 - SALVADOR, BA</p>
+                </div>
+                <div class="col-md-4 text-center">
+                    <h5>Siga-nos</h5>
+                    <div id="midia-social">
+                         Ícones de mídia social
+                        <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955011.png" alt="Facebook" style="width:40px; height:40px;"></a>
+                        <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png " alt="Instagram" style="width:40px; height:40px;"></a>
+                         <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="Whatsapp" style="width:40px; height:40px;"></a>
+                    </div> 
+                </div>
+                <div class="col-md-4 text-right">
+                    <h5>Formas de Pagamento</h5>
+                    <div id="formas-pagamento">
+                         Imagem das formas de pagamento 
+                        <a href="#"><img src="./img/Loja/stamp_encryptssl.png " alt="Instagram" style="width:100px; height:80px;"></a>
+                        <a href="#"><img src="https://cdn.icon-icons.com/icons2/674/PNG/512/Visa_icon-icons.com_60549.png " alt="Instagram" style="width:80px; height:80px;"></a>
+    
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <p class="mt-4">&copy; 2024 Loja Online. Todos os direitos reservados <a href=./lotustelecom.html>Lotustelecom</a>.</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <script src="scripts.js"></script>
+</body>
+</html>

@@ -1,0 +1,4526 @@
+{
+    "aneis": [
+        {
+            "nome": "Anel  Ano",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "Banho: Ouro\n",
+            "subcategoria": "Anos",
+            "codigo": "ANE000"
+        },
+        {
+            "nome": "Anel Coração Esmaltado Verde Neon",
+            "imagens": [],
+            "tamanhos": [
+                {
+                    "valor": "15",
+                    "disponivel": false
+                },
+                {
+                    "valor": "16",
+                    "disponivel": false
+                },
+                {
+                    "valor": "17",
+                    "disponivel": false
+                },
+                {
+                    "valor": "18",
+                    "disponivel": false
+                },
+                {
+                    "valor": "19",
+                    "disponivel": false
+                },
+                {
+                    "valor": "21",
+                    "disponivel": true
+                },
+                {
+                    "valor": "22",
+                    "disponivel": true
+                }
+            ],
+            "descricao": "Anel  Coração Esmaltado Verde Neon Confeccionado em Banho de Ouro Amarelo de 18K e Ródio Branco.<p>Largura: 8mm\nVerde Neon",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE001"
+        },
+        {
+            "nome": "Anel  Esmaltado Branco Rosa e Lilás",
+            "imagens": [],
+            "tamanhos": [
+                {
+                    "valor": "17",
+                    "disponivel": false
+                },
+                {
+                    "valor": "18",
+                    "disponivel": false
+                },
+                {
+                    "valor": "19",
+                    "disponivel": true
+                }
+            ],
+            "descricao": "Anel  Coração Esmaltado Verde Neon Confeccionado em Banho de Ouro Amarelo de 18K e Ródio Branco.",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE002"
+        },
+        {
+            "nome": "Anel  Esmaltado Folhas Cristal ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE003"
+        },
+        {
+            "nome": "Anel  Flor Esmaltado Rosa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE004"
+        },
+        {
+            "nome": "Anel  Esmaltado Cristal",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE005"
+        },
+        {
+            "nome": "Anel Coração Malaquita ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE006"
+        },
+        {
+            "nome": "Anel  Esmaltado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE007"
+        },
+        {
+            "nome": "Anel Quadrado Malaquita",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE008"
+        },
+        {
+            "nome": "Anel Coração Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE009"
+        },
+        {
+            "nome": "Anel Esmaltado Laranja",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE011"
+        },
+        {
+            "nome": "Anel Esmaltado Azul",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE012"
+        },
+        {
+            "nome": "Anel Paz Esmaltado Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE013"
+        },
+        {
+            "nome": "Anel  Flor Esmaltada ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE014"
+        },
+        {
+            "nome": "Anel  Oval Coração Esmaltado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE015"
+        },
+        {
+            "nome": "Anel Flor Esmaltado Laranja ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE016"
+        },
+        {
+            "nome": "Anel Abelha Esmaltado e Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Esmaltados",
+            "codigo": "ANE017"
+        },
+        {
+            "nome": "Anel  Mindinho Letra E Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE018"
+        },
+        {
+            "nome": "Anel Quadrado Letra M Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE019"
+        },
+        {
+            "nome": "Anel Quadrado Letra M Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE020"
+        },
+        {
+            "nome": "Anel  Mindinho Letra N Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE021"
+        },
+        {
+            "nome": "Anel  Mindinho Letra N Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE022"
+        },
+        {
+            "nome": "Anel Liso Letra V",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE023"
+        },
+        {
+            "nome": "Anel Liso Letra V",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE024"
+        },
+        {
+            "nome": "Anel Liso Letra R",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE025"
+        },
+        {
+            "nome": "Anel Liso Letra R",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE026"
+        },
+        {
+            "nome": "Anel Liso Letra O",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE027"
+        },
+        {
+            "nome": "Anel Liso Letra O",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE028"
+        },
+        {
+            "nome": "Anel Cravejado Letra L",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE029"
+        },
+        {
+            "nome": "Anel Cravejado Letra L",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE030"
+        },
+        {
+            "nome": "Anel Cravejado Letra I",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE031"
+        },
+        {
+            "nome": "Anel Cravejado Letra I",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE032"
+        },
+        {
+            "nome": "Anel  Mindinho Letra Y Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE033"
+        },
+        {
+            "nome": "Anel  Mindinho Letra Y Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE034"
+        },
+        {
+            "nome": "Anel  Mindinho Letra V Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE035"
+        },
+        {
+            "nome": "Anel  Mindinho Letra V Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE036"
+        },
+        {
+            "nome": "Anel  Mindinho Letra T Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE037"
+        },
+        {
+            "nome": "Anel  Mindinho Letra T Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE038"
+        },
+        {
+            "nome": "Anel  Mindinho Letra S Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE039"
+        },
+        {
+            "nome": "Anel  Mindinho Letra S Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE040"
+        },
+        {
+            "nome": "Anel  Mindinho Letra R Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE041"
+        },
+        {
+            "nome": "Anel  Mindinho Letra R Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE042"
+        },
+        {
+            "nome": "Anel  Mindinho Letra P Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE043"
+        },
+        {
+            "nome": "Anel  Mindinho Letra P Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE044"
+        },
+        {
+            "nome": "Anel  Mindinho Letra M Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE045"
+        },
+        {
+            "nome": "Anel  Mindinho Letra M Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE046"
+        },
+        {
+            "nome": "Anel  Mindinho Letra L Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE047"
+        },
+        {
+            "nome": "Anel  Mindinho Letra L Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE048"
+        },
+        {
+            "nome": "Anel  Mindinho Letra K Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE049"
+        },
+        {
+            "nome": "Anel  Mindinho Letra K Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE050"
+        },
+        {
+            "nome": "Anel  Mindinho Letra J Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE051"
+        },
+        {
+            "nome": "Anel  Mindinho Letra J Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE052"
+        },
+        {
+            "nome": "Anel  Mindinho Letra I Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE053"
+        },
+        {
+            "nome": "Anel  Mindinho Letra I Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE054"
+        },
+        {
+            "nome": "Anel  Mindinho Letra H Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE055"
+        },
+        {
+            "nome": "Anel  Mindinho Letra H Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE056"
+        },
+        {
+            "nome": "Anel  Mindinho Letra G Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE057"
+        },
+        {
+            "nome": "Anel  Mindinho Letra G Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE058"
+        },
+        {
+            "nome": "Anel  Mindinho Letra F Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE059"
+        },
+        {
+            "nome": "Anel  Mindinho Letra F Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE060"
+        },
+        {
+            "nome": "Anel  Mindinho Letra D Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE061"
+        },
+        {
+            "nome": "Anel  Mindinho Letra D Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE062"
+        },
+        {
+            "nome": "Anel  Mindinho Letra C Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE063"
+        },
+        {
+            "nome": "Anel  Mindinho Letra C Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE064"
+        },
+        {
+            "nome": "Anel  Mindinho Letra B Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE065"
+        },
+        {
+            "nome": "Anel  Mindinho Letra B Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE066"
+        },
+        {
+            "nome": "Anel Cravejado Letra R",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE067"
+        },
+        {
+            "nome": "Anel Cravejado Letra R",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE068"
+        },
+        {
+            "nome": "Anel  Letra S Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE069"
+        },
+        {
+            "nome": "Anel  Letra S Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE070"
+        },
+        {
+            "nome": "Anel Letra G ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE071"
+        },
+        {
+            "nome": "Anel Letra G",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE072"
+        },
+        {
+            "nome": "Anel  Letra R Cristal ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE073"
+        },
+        {
+            "nome": "Anel  Letra R Cristal",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE074"
+        },
+        {
+            "nome": "Anel Liso Letra F",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE075"
+        },
+        {
+            "nome": "Anel Liso Letra F",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE076"
+        },
+        {
+            "nome": "Anel Letra p Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE077"
+        },
+        {
+            "nome": "Anel Letra p Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE078"
+        },
+        {
+            "nome": "Anel Letra Y Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE079"
+        },
+        {
+            "nome": "Anel Letra Y Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE080"
+        },
+        {
+            "nome": "Anel  Letra E Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE081"
+        },
+        {
+            "nome": "Anel  Letra E Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE082"
+        },
+        {
+            "nome": "Anel Letra Q Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE083"
+        },
+        {
+            "nome": "Anel Letra Q Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE084"
+        },
+        {
+            "nome": "Anel Letra A Coração Cristal ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE085"
+        },
+        {
+            "nome": "Anel Letra A Coração Cristal",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE086"
+        },
+        {
+            "nome": "Anel Liso Letra G",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE087"
+        },
+        {
+            "nome": "Anel Liso Letra G",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE088"
+        },
+        {
+            "nome": "Anel Letra O Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE089"
+        },
+        {
+            "nome": "Anel Letra O Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE090"
+        },
+        {
+            "nome": "Anel Liso Letra B",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE091"
+        },
+        {
+            "nome": "Anel Liso Letra B",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE092"
+        },
+        {
+            "nome": "Anel Liso Letra N",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE093"
+        },
+        {
+            "nome": "Anel Liso Letra N",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE094"
+        },
+        {
+            "nome": "Anel  Letra R Cravejada",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE095"
+        },
+        {
+            "nome": "Anel  Letra R Cravejada",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE096"
+        },
+        {
+            "nome": "Anel Letra K ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE097"
+        },
+        {
+            "nome": "Anel Letra K",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE098"
+        },
+        {
+            "nome": "Anel  Letra V Lisa ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE099"
+        },
+        {
+            "nome": "Anel  Letra V Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE100"
+        },
+        {
+            "nome": "Anel Cravejado Letra C",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE101"
+        },
+        {
+            "nome": "Anel Cravejado Letra C",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE102"
+        },
+        {
+            "nome": "Anel Regulável Letra O",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE103"
+        },
+        {
+            "nome": "Anel Regulável Letra O",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE104"
+        },
+        {
+            "nome": "Anel  Letra A Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE105"
+        },
+        {
+            "nome": "Anel  Letra A Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE106"
+        },
+        {
+            "nome": "Anel Cravejado Letra S",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE107"
+        },
+        {
+            "nome": "Anel Cravejado Letra S",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE108"
+        },
+        {
+            "nome": "Anel Liso Letra J",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE109"
+        },
+        {
+            "nome": "Anel Liso Letra J",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE110"
+        },
+        {
+            "nome": "Anel Quadrado Letra K Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE111"
+        },
+        {
+            "nome": "Anel Quadrado Letra K Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE112"
+        },
+        {
+            "nome": "Anel Cravejado Letra E",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE113"
+        },
+        {
+            "nome": "Anel Cravejado Letra E",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE114"
+        },
+        {
+            "nome": "Anel Letra D Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE115"
+        },
+        {
+            "nome": "Anel Letra D Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE116"
+        },
+        {
+            "nome": "Anel Letra A Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE117"
+        },
+        {
+            "nome": "Anel Letra A Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE118"
+        },
+        {
+            "nome": "Anel Letra N ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE119"
+        },
+        {
+            "nome": "Anel Letra N",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE120"
+        },
+        {
+            "nome": "Anel Letra H Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE121"
+        },
+        {
+            "nome": "Anel Letra H Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE122"
+        },
+        {
+            "nome": "Pingente  Letra E Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE123"
+        },
+        {
+            "nome": "Pingente  Letra E Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE124"
+        },
+        {
+            "nome": "Anel Letra I Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE125"
+        },
+        {
+            "nome": "Anel Letra I Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE126"
+        },
+        {
+            "nome": "Anel Liso Letra Q",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE127"
+        },
+        {
+            "nome": "Anel Liso Letra Q",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE128"
+        },
+        {
+            "nome": "Anel Letra E Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE129"
+        },
+        {
+            "nome": "Anel Letra E Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE130"
+        },
+        {
+            "nome": "Anel  Letra G Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE131"
+        },
+        {
+            "nome": "Anel  Letra G Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE132"
+        },
+        {
+            "nome": "Anel Letra K Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE133"
+        },
+        {
+            "nome": "Anel Letra K Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE134"
+        },
+        {
+            "nome": "Anel Letra N Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE135"
+        },
+        {
+            "nome": "Anel Letra N Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE136"
+        },
+        {
+            "nome": "Anel Letra T Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE137"
+        },
+        {
+            "nome": "Anel Letra T Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE138"
+        },
+        {
+            "nome": "Anel Letra I Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE139"
+        },
+        {
+            "nome": "Anel Letra I Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE140"
+        },
+        {
+            "nome": "Anel Letra R Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE141"
+        },
+        {
+            "nome": "Anel Letra R Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE142"
+        },
+        {
+            "nome": "Anel Letra J Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE143"
+        },
+        {
+            "nome": "Anel Letra J Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE144"
+        },
+        {
+            "nome": "Anel  Letra M Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE145"
+        },
+        {
+            "nome": "Anel  Letra M Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE146"
+        },
+        {
+            "nome": "Anel Quadrado Letra P Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE147"
+        },
+        {
+            "nome": "Anel Quadrado Letra P Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE148"
+        },
+        {
+            "nome": "Anel Quadrado Letra L Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE149"
+        },
+        {
+            "nome": "Anel Quadrado Letra L Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE150"
+        },
+        {
+            "nome": "Anel  Letra S Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE151"
+        },
+        {
+            "nome": "Anel  Letra S Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE152"
+        },
+        {
+            "nome": "Anel  Letra R Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE153"
+        },
+        {
+            "nome": "Anel  Letra R Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE154"
+        },
+        {
+            "nome": "Anel  Letra K Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE155"
+        },
+        {
+            "nome": "Anel  Letra K Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE156"
+        },
+        {
+            "nome": "Anel  Letra I Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE157"
+        },
+        {
+            "nome": "Anel  Letra I Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE158"
+        },
+        {
+            "nome": " Anel  Letra E Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE159"
+        },
+        {
+            "nome": "Anel  Letra E Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE160"
+        },
+        {
+            "nome": "Anel  Letra D Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE161"
+        },
+        {
+            "nome": "Anel  Letra D Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE162"
+        },
+        {
+            "nome": "Anel  Letra C Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE163"
+        },
+        {
+            "nome": "Anel  Letra C Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE164"
+        },
+        {
+            "nome": "Anel  Letra B Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE165"
+        },
+        {
+            "nome": "Anel  Letra B Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE166"
+        },
+        {
+            "nome": "Anel Letra E Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE167"
+        },
+        {
+            "nome": "Anel Letra E Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE168"
+        },
+        {
+            "nome": "Anel Letra S",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE169"
+        },
+        {
+            "nome": "Anel Letra S",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE170"
+        },
+        {
+            "nome": "Anel Letra S Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE171"
+        },
+        {
+            "nome": "Anel Letra S Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE172"
+        },
+        {
+            "nome": "Anel  Letra R Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE173"
+        },
+        {
+            "nome": "Anel  Letra R Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE174"
+        },
+        {
+            "nome": "Anel Letra P Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE175"
+        },
+        {
+            "nome": "Anel Letra P Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE176"
+        },
+        {
+            "nome": "Anel Letra V",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE177"
+        },
+        {
+            "nome": "Anel Letra F",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE178"
+        },
+        {
+            "nome": "Anel Letra F",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE179"
+        },
+        {
+            "nome": "Anel Letra E ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE180"
+        },
+        {
+            "nome": "Anel Letra E",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE181"
+        },
+        {
+            "nome": "Anel Letra C ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE182"
+        },
+        {
+            "nome": "Anel Letra C",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE183"
+        },
+        {
+            "nome": "Anel Letra P",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE184"
+        },
+        {
+            "nome": "Anel Letra P",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE185"
+        },
+        {
+            "nome": "Anel Letra B ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE186"
+        },
+        {
+            "nome": "Anel Letra B",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE187"
+        },
+        {
+            "nome": "Anel Letra K Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE188"
+        },
+        {
+            "nome": "Anel Letra K Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE189"
+        },
+        {
+            "nome": "Anel Letra A Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE190"
+        },
+        {
+            "nome": "Anel Letra A Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE191"
+        },
+        {
+            "nome": "Anel  Letra E Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE192"
+        },
+        {
+            "nome": "Anel  Letra E Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE193"
+        },
+        {
+            "nome": "Anel  Liso Letra U",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE194"
+        },
+        {
+            "nome": "Anel  Liso Letra U",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE195"
+        },
+        {
+            "nome": "Anel Liso Letra T",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE196"
+        },
+        {
+            "nome": "Anel Liso Letra T",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE197"
+        },
+        {
+            "nome": "Anel  Liso Letra S",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE198"
+        },
+        {
+            "nome": "Anel  Liso Letra S",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE199"
+        },
+        {
+            "nome": "Anel Letra F Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE200"
+        },
+        {
+            "nome": "Anel Letra F Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE201"
+        },
+        {
+            "nome": "Anel Liso Letra P",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE202"
+        },
+        {
+            "nome": "Anel Liso Letra P",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE203"
+        },
+        {
+            "nome": "Anel Letra C Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE204"
+        },
+        {
+            "nome": "Anel Letra C Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE205"
+        },
+        {
+            "nome": "Anel Letra S Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE206"
+        },
+        {
+            "nome": "Anel Letra S Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE207"
+        },
+        {
+            "nome": "Anel Letra S Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE208"
+        },
+        {
+            "nome": "Anel Letra S Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE209"
+        },
+        {
+            "nome": "Anel Letra E Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE210"
+        },
+        {
+            "nome": "Anel Letra E Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE211"
+        },
+        {
+            "nome": "Anel Letra I",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE212"
+        },
+        {
+            "nome": "Anel Letra I",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE213"
+        },
+        {
+            "nome": "Anel Letra O Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE214"
+        },
+        {
+            "nome": "Anel Letra O Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE215"
+        },
+        {
+            "nome": "Anel Letra O Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE216"
+        },
+        {
+            "nome": "Anel Letra O Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE217"
+        },
+        {
+            "nome": "Anel Cravejado Letra H",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE218"
+        },
+        {
+            "nome": "Anel Cravejado Letra H",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE219"
+        },
+        {
+            "nome": "Anel Letra G Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE220"
+        },
+        {
+            "nome": "Anel Letra G Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE221"
+        },
+        {
+            "nome": "Anel Letra K Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE222"
+        },
+        {
+            "nome": "Anel Letra K Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE223"
+        },
+        {
+            "nome": "Anel Letra E Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE224"
+        },
+        {
+            "nome": "Anel Letra E Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE225"
+        },
+        {
+            "nome": "Anel Letra X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE226"
+        },
+        {
+            "nome": "Anel Letra X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE227"
+        },
+        {
+            "nome": "Anel Letra E Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE228"
+        },
+        {
+            "nome": "Anel Letra E Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE229"
+        },
+        {
+            "nome": "Anel Letra H Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE230"
+        },
+        {
+            "nome": "Anel Letra H Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE231"
+        },
+        {
+            "nome": "Anel  Letra L Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE232"
+        },
+        {
+            "nome": "Anel  Letra L Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE233"
+        },
+        {
+            "nome": "Anel Letra M Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE234"
+        },
+        {
+            "nome": "Anel Letra M Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE235"
+        },
+        {
+            "nome": "Anel  Letra S Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE236"
+        },
+        {
+            "nome": "Anel  Letra S Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE237"
+        },
+        {
+            "nome": "Anel  Letra L Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE238"
+        },
+        {
+            "nome": "Anel  Letra L Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE239"
+        },
+        {
+            "nome": "Anel Letra D Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE240"
+        },
+        {
+            "nome": "Anel Letra D Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE241"
+        },
+        {
+            "nome": "Anel Letra B Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE242"
+        },
+        {
+            "nome": "Anel Letra B Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE243"
+        },
+        {
+            "nome": "Anel Letra N Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE244"
+        },
+        {
+            "nome": "Anel Letra N Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE245"
+        },
+        {
+            "nome": "Anel Letra E Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE246"
+        },
+        {
+            "nome": "Anel Letra E Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE247"
+        },
+        {
+            "nome": "Anel Letra O Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE248"
+        },
+        {
+            "nome": "Anel Letra O Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE249"
+        },
+        {
+            "nome": "Anel Letra F Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE250"
+        },
+        {
+            "nome": "Anel Letra F Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE251"
+        },
+        {
+            "nome": "Anel Letra T Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE252"
+        },
+        {
+            "nome": "Anel Letra T Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE253"
+        },
+        {
+            "nome": "Anel Letra C Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE254"
+        },
+        {
+            "nome": "Anel Letra C Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE255"
+        },
+        {
+            "nome": "Anel Letra G Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE256"
+        },
+        {
+            "nome": "Anel Letra G Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE257"
+        },
+        {
+            "nome": "Anel Liso Letra K",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE258"
+        },
+        {
+            "nome": "Anel Liso Letra K",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE259"
+        },
+        {
+            "nome": "Anel Quadrado Letra I Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE260"
+        },
+        {
+            "nome": "Anel Quadrado Letra I Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE261"
+        },
+        {
+            "nome": "Anel Quadrado Letra Z Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE262"
+        },
+        {
+            "nome": "Anel Quadrado Letra Z Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE263"
+        },
+        {
+            "nome": "Anel Quadrado Letra A Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE264"
+        },
+        {
+            "nome": "Anel Quadrado Letra A Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE265"
+        },
+        {
+            "nome": "Anel Quadrado Letra B Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE266"
+        },
+        {
+            "nome": "Anel Quadrado Letra B Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE267"
+        },
+        {
+            "nome": "Anel Regulável Letra H",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE268"
+        },
+        {
+            "nome": "Anel Regulável Letra H",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE269"
+        },
+        {
+            "nome": "Anel Letra V Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE270"
+        },
+        {
+            "nome": "Anel Letra V Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE271"
+        },
+        {
+            "nome": "Anel Letra H Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE272"
+        },
+        {
+            "nome": "Anel Letra H Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE273"
+        },
+        {
+            "nome": "Anel Quadrado Letra J Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE274"
+        },
+        {
+            "nome": "Anel Quadrado Letra J Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE275"
+        },
+        {
+            "nome": "Anel Quadrado Letra S Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE276"
+        },
+        {
+            "nome": "Anel Quadrado Letra S Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE277"
+        },
+        {
+            "nome": "Anel Quadrado Letra C Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE278"
+        },
+        {
+            "nome": "Anel Quadrado Letra C Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE279"
+        },
+        {
+            "nome": "Anel Letra Z Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE280"
+        },
+        {
+            "nome": "Anel Letra Z Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE281"
+        },
+        {
+            "nome": "Anel Letra C Micro Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE282"
+        },
+        {
+            "nome": "Anel Letra C Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE283"
+        },
+        {
+            "nome": "Anel Quadrado Letra R Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE284"
+        },
+        {
+            "nome": "Anel Quadrado Letra R Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE285"
+        },
+        {
+            "nome": "Anel Quadrado Letra N Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE286"
+        },
+        {
+            "nome": "Anel Quadrado Letra N Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE287"
+        },
+        {
+            "nome": "Anel Quadrado Letra G Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE288"
+        },
+        {
+            "nome": "Anel Quadrado Letra G Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE289"
+        },
+        {
+            "nome": "Anel Quadrado Letra F Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE290"
+        },
+        {
+            "nome": "Anel Quadrado Letra F Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE291"
+        },
+        {
+            "nome": "Anel Quadrado Letra H Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE292"
+        },
+        {
+            "nome": "Anel Quadrado Letra H Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE293"
+        },
+        {
+            "nome": "Anel Letra R Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE294"
+        },
+        {
+            "nome": "Anel Letra R Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE295"
+        },
+        {
+            "nome": "Anel Letra R Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE296"
+        },
+        {
+            "nome": "Anel Letra R Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE297"
+        },
+        {
+            "nome": "Anel Quadrado Letra V Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE298"
+        },
+        {
+            "nome": "Anel Quadrado Letra V Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE299"
+        },
+        {
+            "nome": "Anel Quadrado Letra D Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE300"
+        },
+        {
+            "nome": "Anel Quadrado Letra D Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE301"
+        },
+        {
+            "nome": "Anel Letra C Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE302"
+        },
+        {
+            "nome": "Anel Letra C Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE303"
+        },
+        {
+            "nome": "Anel Letra N Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Letra",
+            "codigo": "ANE304"
+        },
+        {
+            "nome": "Anel  Bolas Lisas",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE305"
+        },
+        {
+            "nome": "Anel  Bolas Lisas",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE306"
+        },
+        {
+            "nome": "Anel  Bolas Lisas",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE307"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE308"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE309"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE310"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE311"
+        },
+        {
+            "nome": "Anel  Detalhado Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE312"
+        },
+        {
+            "nome": "Anel  Detalhado Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE313"
+        },
+        {
+            "nome": "Anel  Quadrado Bicolor",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE314"
+        },
+        {
+            "nome": "Anel  Quadrado Bicolor",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE315"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE316"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE317"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE318"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE319"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE320"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE321"
+        },
+        {
+            "nome": "Anel  Coração Vazado Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE322"
+        },
+        {
+            "nome": "Anel  Coração Vazado Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE323"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE324"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE325"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE326"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE327"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE328"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE329"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE330"
+        },
+        {
+            "nome": "Anel  Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE331"
+        },
+        {
+            "nome": "Anel  Coração Aqua Marinha Regulavél",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE332"
+        },
+        {
+            "nome": "Anel  Coração Aqua Marinha Regulavél",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE333"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE334"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE335"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE336"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE337"
+        },
+        {
+            "nome": "Anel  Oval Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE338"
+        },
+        {
+            "nome": "Anel  Oval Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE339"
+        },
+        {
+            "nome": "Anel  Detalhado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE340"
+        },
+        {
+            "nome": "Anel  Detalhado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE341"
+        },
+        {
+            "nome": "Anel Elos Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE342"
+        },
+        {
+            "nome": "Anel Elos Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE343"
+        },
+        {
+            "nome": "Anel  Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE344"
+        },
+        {
+            "nome": "Anel  Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE345"
+        },
+        {
+            "nome": "Anel  Detalhado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE346"
+        },
+        {
+            "nome": "Anel  Detalhado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE347"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE348"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE349"
+        },
+        {
+            "nome": "Anel  Menina Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE350"
+        },
+        {
+            "nome": "Anel  Menina Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE351"
+        },
+        {
+            "nome": "Anel  Menina Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE352"
+        },
+        {
+            "nome": "Anel  Menina Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE353"
+        },
+        {
+            "nome": "Anel  Menino Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE354"
+        },
+        {
+            "nome": "Anel  Menino Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE355"
+        },
+        {
+            "nome": "Anel  Menino Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE356"
+        },
+        {
+            "nome": "Anel  Menino Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE357"
+        },
+        {
+            "nome": "Anel  Letra S Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE358"
+        },
+        {
+            "nome": "Anel  Letra S Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE359"
+        },
+        {
+            "nome": "Anel  Cobra Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE360"
+        },
+        {
+            "nome": "Anel  Cobra Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE361"
+        },
+        {
+            "nome": "Anel  Coração Texturizado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE362"
+        },
+        {
+            "nome": "Anel  Coração Texturizado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE363"
+        },
+        {
+            "nome": "Anel  Coração Micro Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE364"
+        },
+        {
+            "nome": "Anel  Coração Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE365"
+        },
+        {
+            "nome": "Anel Letra p Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE366"
+        },
+        {
+            "nome": "Anel Letra p Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE367"
+        },
+        {
+            "nome": "Anel Letra T Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE368"
+        },
+        {
+            "nome": "Anel Letra T Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE369"
+        },
+        {
+            "nome": "Anel Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE370"
+        },
+        {
+            "nome": "Anel Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE371"
+        },
+        {
+            "nome": "Anel  3 Corações Lisos",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE372"
+        },
+        {
+            "nome": "Anel  3 Corações Lisos",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE373"
+        },
+        {
+            "nome": "Anel Giratório Palavras",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE374"
+        },
+        {
+            "nome": "Anel Giratório Palavras",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE375"
+        },
+        {
+            "nome": "Anel Letra I Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE376"
+        },
+        {
+            "nome": "Anel Letra I Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE377"
+        },
+        {
+            "nome": "Anel  Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE378"
+        },
+        {
+            "nome": "Anel  Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE379"
+        },
+        {
+            "nome": "Anel Elos Lisos",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE380"
+        },
+        {
+            "nome": "Anel Elos Lisos",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE381"
+        },
+        {
+            "nome": "Anel Medalha São Bento ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE382"
+        },
+        {
+            "nome": "Anel Medalha São Bento",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE383"
+        },
+        {
+            "nome": "Anel Coração ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE384"
+        },
+        {
+            "nome": "Anel Coração",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE385"
+        },
+        {
+            "nome": "Anél  Mãe Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE386"
+        },
+        {
+            "nome": "Anél  Mãe Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE387"
+        },
+        {
+            "nome": "Anel  Letra V Lisa ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE388"
+        },
+        {
+            "nome": "Anel  Letra V Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE389"
+        },
+        {
+            "nome": "Anel Regulável Elos",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE390"
+        },
+        {
+            "nome": "Anel Regulável Elos",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE391"
+        },
+        {
+            "nome": "Anel  Letra A Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE392"
+        },
+        {
+            "nome": "Anel  Letra A Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE393"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE394"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE395"
+        },
+        {
+            "nome": "Anel  Redondo Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE396"
+        },
+        {
+            "nome": "Anel  Redondo Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE397"
+        },
+        {
+            "nome": "Anel Nossa Senhora Das Graças Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE398"
+        },
+        {
+            "nome": "Anel Nossa Senhora Das Graças Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE399"
+        },
+        {
+            "nome": "Anel  Meia Bola Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE400"
+        },
+        {
+            "nome": "Anel  Meia Bola Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE401"
+        },
+        {
+            "nome": "Anel  Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE402"
+        },
+        {
+            "nome": "Anel  Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE403"
+        },
+        {
+            "nome": "Anel  Trio Fosco Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE404"
+        },
+        {
+            "nome": "Anel  Trio Fosco Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE405"
+        },
+        {
+            "nome": "Anel  Quadrado Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE406"
+        },
+        {
+            "nome": "Anel  Quadrado Liso Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE407"
+        },
+        {
+            "nome": "Anel Mãos Lisa ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE408"
+        },
+        {
+            "nome": "Anel Mãos Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE409"
+        },
+        {
+            "nome": "Anel  Panda Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE410"
+        },
+        {
+            "nome": "Anel  Panda Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE411"
+        },
+        {
+            "nome": "Anel  Flor Esmaltado Azul Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE412"
+        },
+        {
+            "nome": "Anel  Flor Esmaltado Azul Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE413"
+        },
+        {
+            "nome": "Anel  Flor Esmaltado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE414"
+        },
+        {
+            "nome": "Anel  Flor Esmaltado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE415"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE416"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE417"
+        },
+        {
+            "nome": "Anel  Torcido Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE418"
+        },
+        {
+            "nome": "Anel  Torcido Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE419"
+        },
+        {
+            "nome": "Anel  Meia Bola Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE420"
+        },
+        {
+            "nome": "Anel  Meia Bola Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE421"
+        },
+        {
+            "nome": "Anel  Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE422"
+        },
+        {
+            "nome": "Anel  Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE423"
+        },
+        {
+            "nome": "Anel  Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE424"
+        },
+        {
+            "nome": "Anel  Bola Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE425"
+        },
+        {
+            "nome": "Anel Letra A Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE426"
+        },
+        {
+            "nome": "Anel Letra A Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE427"
+        },
+        {
+            "nome": "Anel  Redondo Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE428"
+        },
+        {
+            "nome": "Anel  Redondo Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE429"
+        },
+        {
+            "nome": "Anel  Quadrado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE430"
+        },
+        {
+            "nome": "Anel  Quadrado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE431"
+        },
+        {
+            "nome": "Anel  Fé Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE432"
+        },
+        {
+            "nome": "Anel Cristal Colorido",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE433"
+        },
+        {
+            "nome": "Anel  Ano",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE434"
+        },
+        {
+            "nome": "Anel  Torcido Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE435"
+        },
+        {
+            "nome": "Anel Elos Detalhado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE436"
+        },
+        {
+            "nome": "Anel Fileiras Fosca",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE437"
+        },
+        {
+            "nome": "Anel  Quadrado Cravejado ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE438"
+        },
+        {
+            "nome": "Anel  Quadrado Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE439"
+        },
+        {
+            "nome": "Anel Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE440"
+        },
+        {
+            "nome": "Anel  Quadrado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE441"
+        },
+        {
+            "nome": "Anel  Sagrado Coração Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE442"
+        },
+        {
+            "nome": "Anel Sagrado Coração Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE443"
+        },
+        {
+            "nome": "Anel Nossa Senhora Aparecida Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE444"
+        },
+        {
+            "nome": "Anel  Menina Micro Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE445"
+        },
+        {
+            "nome": "Anel  Menina Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE446"
+        },
+        {
+            "nome": "Anel  Menino Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE447"
+        },
+        {
+            "nome": "Pingente  Letra E Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE448"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE449"
+        },
+        {
+            "nome": "Anel  Detalhado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE450"
+        },
+        {
+            "nome": "Anel Love Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE451"
+        },
+        {
+            "nome": "Anel Love Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE452"
+        },
+        {
+            "nome": "Anel  Letra z Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE453"
+        },
+        {
+            "nome": "Anel  Letra H Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE454"
+        },
+        {
+            "nome": "Anel Infinito Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE455"
+        },
+        {
+            "nome": "Anel Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE456"
+        },
+        {
+            "nome": "Anel Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE457"
+        },
+        {
+            "nome": "Anel  Torcido Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE458"
+        },
+        {
+            "nome": "Anel  Redondo Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE459"
+        },
+        {
+            "nome": "Anel  Redondo Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE460"
+        },
+        {
+            "nome": "Anel  Oval Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE461"
+        },
+        {
+            "nome": "Anel  Oval Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE462"
+        },
+        {
+            "nome": "Anel  Coração Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE463"
+        },
+        {
+            "nome": "Anel  Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE464"
+        },
+        {
+            "nome": "Anel  Fileiras Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE465"
+        },
+        {
+            "nome": "Anel  Elos Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE466"
+        },
+        {
+            "nome": "Anel  Elos Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE467"
+        },
+        {
+            "nome": "Anel  Detalhado Vazado Regulável ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE468"
+        },
+        {
+            "nome": "Anel  Detalhado Vazado Regulável",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE469"
+        },
+        {
+            "nome": "Anel  Laço Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE470"
+        },
+        {
+            "nome": "Anel  Menino e Coração Micro Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE471"
+        },
+        {
+            "nome": "Anel  Coração Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE472"
+        },
+        {
+            "nome": "Anel Nó Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE473"
+        },
+        {
+            "nome": "Anel Letra V Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE474"
+        },
+        {
+            "nome": "Anel Letra V Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE475"
+        },
+        {
+            "nome": "Anel  Letra U Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE476"
+        },
+        {
+            "nome": "Anel  Letra O Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE477"
+        },
+        {
+            "nome": "Anel Elos Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE478"
+        },
+        {
+            "nome": "Anel Elos Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE479"
+        },
+        {
+            "nome": "Anel Fileiras Lisas ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE480"
+        },
+        {
+            "nome": "Anel Fileiras Lisas",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE481"
+        },
+        {
+            "nome": "Anel  Detalhado Zircônia ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE482"
+        },
+        {
+            "nome": "Anel  Detalhado Zircônia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE483"
+        },
+        {
+            "nome": "Anel Lacre Detalhado Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE484"
+        },
+        {
+            "nome": "Anel Lacre Detalhado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE485"
+        },
+        {
+            "nome": "Anel  Letra P Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE486"
+        },
+        {
+            "nome": "Anel Estrelas Micro Zirconia",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE487"
+        },
+        {
+            "nome": "Anel  São Bento Cravejado ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE488"
+        },
+        {
+            "nome": "Anel  São Bento Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE489"
+        },
+        {
+            "nome": "Anel  Letra S Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE490"
+        },
+        {
+            "nome": "Anel  Letra R Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE491"
+        },
+        {
+            "nome": "Anel  Letra K Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE492"
+        },
+        {
+            "nome": "Anel  Letra I Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE493"
+        },
+        {
+            "nome": "Anel  Letra E Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE494"
+        },
+        {
+            "nome": "Anel  Letra D Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE495"
+        },
+        {
+            "nome": "Anel  Letra D Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE496"
+        },
+        {
+            "nome": "Anel  Letra C Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE497"
+        },
+        {
+            "nome": "Anel  Letra C Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE498"
+        },
+        {
+            "nome": "Anel  Letra B Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE499"
+        },
+        {
+            "nome": "Anel  Letra B Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE500"
+        },
+        {
+            "nome": "Anel  Coração Love",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE501"
+        },
+        {
+            "nome": "Anel  Coração Love",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE502"
+        },
+        {
+            "nome": "Anel  Oval Coração Esmaltado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE503"
+        },
+        {
+            "nome": "Anel  Oval Coração Esmaltado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE504"
+        },
+        {
+            "nome": "Anel  Torcido Entrelaçado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE505"
+        },
+        {
+            "nome": "Anel  Torcido Entrelaçado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE506"
+        },
+        {
+            "nome": "Anel Letra I Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE507"
+        },
+        {
+            "nome": "Anel Letra I Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE508"
+        },
+        {
+            "nome": "Anel Triângulos Cravejado ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE509"
+        },
+        {
+            "nome": "Anel Triângulos Cravejado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE510"
+        },
+        {
+            "nome": "Anel Trevo Love ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE511"
+        },
+        {
+            "nome": "Anel Trevo Love",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE512"
+        },
+        {
+            "nome": "Anel Fé Liso ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE513"
+        },
+        {
+            "nome": "Anel Fé Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE514"
+        },
+        {
+            "nome": "Anel Falange Infinito Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE515"
+        },
+        {
+            "nome": "Anel Falange Infinito Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE516"
+        },
+        {
+            "nome": "Anel  Retangular Cristal",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE517"
+        },
+        {
+            "nome": "Anel  Retangular Cristal",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE518"
+        },
+        {
+            "nome": "Anel Elos Lisos",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE519"
+        },
+        {
+            "nome": "Anel Elos Lisos",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE520"
+        },
+        {
+            "nome": "Anel Cravejado Letra O",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE521"
+        },
+        {
+            "nome": "Anel Cravejado Letra O",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE522"
+        },
+        {
+            "nome": "Anel Aliança Lisa ",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE523"
+        },
+        {
+            "nome": "Anel Aliança Lisa",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE524"
+        },
+        {
+            "nome": "Anel Liso Corações",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE525"
+        },
+        {
+            "nome": "Anel Liso Corações",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE526"
+        },
+        {
+            "nome": "Anel Leão Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE527"
+        },
+        {
+            "nome": "Anel Leão Detalhado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE528"
+        },
+        {
+            "nome": "Anel  Coração Cadeado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE529"
+        },
+        {
+            "nome": "Anel  Coração Cadeado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE530"
+        },
+        {
+            "nome": "Anel  Liso Vazado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE531"
+        },
+        {
+            "nome": "Anel  Liso Vazado",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE532"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE533"
+        },
+        {
+            "nome": "Anel  X Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE534"
+        },
+        {
+            "nome": "Anel  Nossa Senhora Aparecida",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE535"
+        },
+        {
+            "nome": "Anel  Nossa Senhora Aparecida",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE536"
+        },
+        {
+            "nome": "Anel Redondo São Bento",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE537"
+        },
+        {
+            "nome": "Anel Redondo São Bento",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE538"
+        },
+        {
+            "nome": "Anel Letra M Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE539"
+        },
+        {
+            "nome": "Anel Letra M Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE540"
+        },
+        {
+            "nome": "Anel  Letra S Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE541"
+        },
+        {
+            "nome": "Anel  Letra S Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE542"
+        },
+        {
+            "nome": "Anel  Letra L Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE543"
+        },
+        {
+            "nome": "Anel  Letra L Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE544"
+        },
+        {
+            "nome": "Anel Letra D Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE545"
+        },
+        {
+            "nome": "Anel Letra D Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE546"
+        },
+        {
+            "nome": "Anel Letra B Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE547"
+        },
+        {
+            "nome": "Anel Letra B Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE548"
+        },
+        {
+            "nome": "Anel Letra E Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE549"
+        },
+        {
+            "nome": "Anel Letra E Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE550"
+        },
+        {
+            "nome": "Anel Letra O Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE551"
+        },
+        {
+            "nome": "Anel Letra O Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE552"
+        },
+        {
+            "nome": "Anel Baby Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE553"
+        },
+        {
+            "nome": "Anel Baby Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE554"
+        },
+        {
+            "nome": "Anel  Elos Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE555"
+        },
+        {
+            "nome": "Anel  Elos Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE556"
+        },
+        {
+            "nome": "Anel Abacaxi Detalhado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE557"
+        },
+        {
+            "nome": "Anel Abacaxi Detalhado Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE558"
+        },
+        {
+            "nome": "Anel Aceito Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE559"
+        },
+        {
+            "nome": "Anel Aceito Liso",
+            "imagens": [],
+            "tamanhos": [],
+            "descricao": "",
+            "subcategoria": "Lisos",
+            "codigo": "ANE560"
+        }
+    ]
+}
